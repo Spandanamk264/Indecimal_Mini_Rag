@@ -1,0 +1,64 @@
+# ============================================
+# Construction RAG System - Backend Dependencies
+# ============================================
+# A production-grade RAG system for construction intelligence
+# Author: ML Intern Candidate
+# ============================================
+
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# LLM & Embeddings
+openai==1.12.0
+sentence-transformers==2.3.1
+tiktoken==0.5.2
+langchain==0.1.5
+langchain-openai==0.0.5
+langchain-community==0.0.17
+
+# Vector Database Options
+chromadb==0.4.22
+faiss-cpu==1.7.4
+pinecone-client==3.0.0
+
+# Document Processing
+pypdf==4.0.1
+python-docx==1.1.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+unstructured==0.12.0
+
+# Text Processing & NLP
+nltk==3.8.1
+spacy==3.7.2
+regex==2023.12.25
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Evaluation & Metrics
+scikit-learn==1.4.0
+rouge-score==0.1.2
+bert-score==0.3.13
+
+# Logging & Monitoring
+loguru==0.7.2
+python-json-logger==2.0.7
+
+# Environment & Config
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+httpx==0.26.0
+
+# Utilities
+tenacity==8.2.3
+tqdm==4.66.1
+aiofiles==23.2.1

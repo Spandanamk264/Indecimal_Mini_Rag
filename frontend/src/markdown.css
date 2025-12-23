@@ -1,0 +1,53 @@
+/* Markdown Styling */
+.markdown-content h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--gray-900);
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+
+.markdown-content h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--gray-800);
+    margin-top: 12px;
+    margin-bottom: 6px;
+}
+
+.markdown-content h4 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--primary-dark);
+    margin-top: 10px;
+    margin-bottom: 4px;
+}
+
+.markdown-content p {
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
+
+.markdown-content ul {
+    margin-bottom: 12px;
+    padding-left: 20px;
+}
+
+.markdown-content li {
+    margin-bottom: 4px;
+    line-height: 1.5;
+    position: relative;
+}
+
+.markdown-content li::marker {
+    color: var(--primary);
+}
+
+.markdown-content strong {
+    font-weight: 600;
+    color: var(--gray-900);
+}
+
+.line-block {
+    display: block;
+}

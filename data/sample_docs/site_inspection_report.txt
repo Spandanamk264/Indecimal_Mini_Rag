@@ -1,0 +1,374 @@
+================================================================================
+CONSTRUCTION SITE INSPECTION REPORT
+================================================================================
+
+REPORT NUMBER: INSP-2024-0892
+INSPECTION DATE: November 15, 2024
+INSPECTION TIME: 9:00 AM - 12:30 PM
+WEATHER CONDITIONS: Partly cloudy, 68°F, Light wind (5-10 mph)
+
+================================================================================
+PROJECT INFORMATION
+================================================================================
+
+Project Name: Highland Towers Mixed-Use Development
+Project Address: 4521 Commerce Boulevard, Austin, TX 78701
+Project Number: HT-2024-001
+Owner: Highland Development Partners, LLC
+General Contractor: Titan Construction Corporation
+Project Manager: Michael Rodriguez
+Superintendent: David Chen
+
+Construction Phase: Structural - 85% Complete
+Current Floor: Floors 18-20 active deck pour
+Workers On-Site: 287 (per morning headcount)
+
+================================================================================
+INSPECTION TEAM
+================================================================================
+
+Lead Inspector: Sarah Thompson, PE, CBO
+- Texas PE License #98234
+- ICC Certification: Commercial Building Inspector
+- 15 years construction inspection experience
+
+Assistant Inspector: James Williams
+- ICC Certification: Structural Masonry Inspector
+- 8 years construction experience
+
+Third-Party Testing: Alpha Testing Laboratory
+- Concrete cylinder pickup and compression testing
+- Rebar tensile testing samples
+
+================================================================================
+SECTION 1: STRUCTURAL INSPECTION
+================================================================================
+
+1.1 Foundation Systems - PREVIOUSLY APPROVED
+
+Foundation work completed and approved per prior inspections.
+Reference: INSP-2024-0234 through 0256
+
+1.2 Concrete Work - CURRENT INSPECTION
+
+Floor 18 - Post-Tensioned Deck:
+✓ PASSED - Tendon layout matches structural drawings (S-401)
+✓ PASSED - Minimum cover verified: 1.5" top, 1" bottom
+✓ PASSED - Pour strips at building expansion joints
+⚠ OBSERVATION - Minor cold joint visible at column C-7/D-7
+  Recommendation: Structural engineer review required before proceeding
+
+Floor 19 - Steel Deck and Shear Studs:
+✓ PASSED - Deck gauge verified (18 GA composite deck)
+✓ PASSED - Shear stud spacing per S-302 (12" o.c. typ.)
+✓ PASSED - Negative moment reinforcing in place
+✓ PASSED - Edge pour stops installed
+
+Floor 20 - Reinforcement Placement:
+✓ PASSED - Bottom mat reinforcing complete (Grid A-F)
+✓ PASSED - Rebar chairs spaced at 4' maximum
+✗ FAILED - Top mat missing at 30% of inspected area
+  ACTION REQUIRED: Complete top mat installation before pour authorization
+✗ FAILED - Lap splice lengths inadequate at 3 locations
+  Reference: RFI-0892 response requires 48-bar diameter min.
+
+1.3 Structural Steel
+
+Erection Status: Complete through Floor 17
+Current Activity: Floors 18-20 column erection
+
+Inspection Findings:
+✓ PASSED - Column base plate connections (random sample: 15 locations)
+✓ PASSED - Moment connection welds (visual + UT on 10% sample)
+✓ PASSED - Bolt tightening verification (turn-of-nut method documented)
+✓ PASSED - Fire protection spray applied through Floor 15
+
+⚠ OBSERVATION - Spray fireproofing damaged at 4 locations (Floor 12-14)
+  Cause: Trade damage from mechanical installation
+  Action: Touch-up required before ceiling closure
+
+================================================================================
+SECTION 2: MEP ROUGH-IN INSPECTION
+================================================================================
+
+2.1 Electrical Systems
+
+Inspection Scope: Floors 10-14 rough-in complete
+
+✓ PASSED - Main electrical room equipment installed (Floor 1)
+✓ PASSED - Conduit supports at code-required intervals
+✓ PASSED - Ground conductor installation verified
+✓ PASSED - Junction box fill calculations submitted
+✓ PASSED - Fire-rated partition penetrations sealed
+
+⚠ OBSERVATION - GFCI receptacles needed at Floor 12 rooftop terrace
+  Code Reference: NEC 210.8(A)(3) - outdoor receptacles
+
+2.2 Plumbing Systems
+
+Inspection Scope: Vertical risers and horizontal distribution (Floors 1-14)
+
+✓ PASSED - DWV pressure test documentation (15 PSI, 15 min)
+✓ PASSED - Domestic water pressure test (150 PSI with 10% drop allowable)
+✓ PASSED - Pipe hangers and supports per ASME B31.9
+✓ PASSED - Water heater seismic strapping (residential units)
+
+✗ FAILED - Grease interceptor installation not per approved submittal
+  Location: Commercial Kitchen - Floor 1
+  Issue: Interceptor size 35 GPM installed vs. 50 GPM required
+  Action: Replace with code-compliant unit before connection
+
+2.3 HVAC Systems
+
+Inspection Scope: Rooftop units, ductwork (Floors 10-14)
+
+✓ PASSED - RTU structural supports and vibration isolation
+✓ PASSED - Refrigerant line insulation and support
+✓ PASSED - Duct sealing (random SMACNA Level B verified)
+✓ PASSED - Fire/smoke dampers at rated assemblies
+
+⚠ OBSERVATION - Access panels needed for VAV boxes (multiple locations)
+  Note: Install before ceiling grid completion
+
+2.4 Fire Protection
+
+Inspection Scope: Sprinkler rough-in (Floors 1-14)
+
+✓ PASSED - Sprinkler heads within 6" of ceiling (typ.)
+✓ PASSED - Arm-over coverage at obstructions
+✓ PASSED - Main riser check valve and flow switches
+✓ PASSED - Hydrostatic test: 200 PSI for 2 hours
+
+✗ FAILED - Missing sprinkler coverage in Telecom Room (Floor 3)
+  Room added per ASI-045; sprinkler layout not updated
+  Action: Submit revised sprinkler drawing for approval
+
+================================================================================
+SECTION 3: SAFETY INSPECTION
+================================================================================
+
+3.1 Fall Protection
+
+✓ PASSED - Guardrails at floor openings (elevator and stair shafts)
+✓ PASSED - Perimeter cables at structural steel levels
+✓ PASSED - Safety nets installed at active deck pours
+
+⚠ OBSERVATION - Ladder cage missing at Floor 16 fixed ladder
+  Action: Install before workers access level
+
+✗ FAILED - Floor opening covers at multiple locations:
+  - Missing: Grid B-5 (Floor 14) - 4'x4' opening
+  - Unsecured: Grid E-8 (Floor 12) - plywood not fastened
+  - Unlabeled: 6 locations (Floors 10-14)
+  STOP WORK ORDER issued for Floor 14 until corrected
+
+3.2 Housekeeping
+
+Overall Site Condition: ACCEPTABLE with noted deficiencies
+
+✓ PASSED - Material storage areas organized
+✓ PASSED - Trash chutes operational and maintained
+✓ PASSED - Debris netting on scaffold exteriors
+
+⚠ OBSERVATION - Accumulated debris at:
+  - Stairwell C (Floors 8-12)
+  - Mechanical room (Floor 10)
+  24-hour cleanup required
+
+3.3 Fire Prevention
+
+✓ PASSED - Hot work permits posted (welding Floors 18-20)
+✓ PASSED - Fire extinguishers within 100' of hot work
+✓ PASSED - Fire watch present during welding operations
+✓ PASSED - Temporary standpipe operational to Floor 16
+
+✗ FAILED - Combustible material storage in electrical room (Floor 8)
+  IMMEDIATE ACTION REQUIRED - remove before end of day
+
+3.4 Electrical Safety
+
+✓ PASSED - Temporary power panels labeled
+✓ PASSED - GFCI protection on all temporary receptacles
+✗ FAILED - Damaged extension cords in use (3 observed)
+  Action: Remove from service immediately
+
+================================================================================
+SECTION 4: QUALITY CONTROL REVIEW
+================================================================================
+
+4.1 Submittal Status
+
+Reviewed submittal log. Current status:
+- Total Submittals Required: 892
+- Approved: 756 (85%)
+- Approved as Noted: 89 (10%)
+- Revise and Resubmit: 28 (3%)
+- Under Review: 19 (2%)
+
+Critical Outstanding:
+- Elevator equipment (past due 15 days)
+- Curtain wall system (under review - mock-up required)
+- Emergency generator (approved, delivery confirmed 12/01/2024)
+
+4.2 RFI Status
+
+- Total RFIs: 467
+- Resolved: 423 (91%)
+- Pending: 44 (average age: 8 days)
+
+Critical Open RFIs:
+- RFI-0445: Structural coordination at mechanical penthouse (18 days)
+- RFI-0456: Curtain wall anchor design (12 days)
+- RFI-0461: Retail storefront waterproofing (10 days)
+
+4.3 Test Reports Reviewed
+
+Concrete Cylinder Breaks (28-day):
+- Floor 15 deck pour (11/01): 5,420 PSI (Req: 5,000) ✓
+- Floor 16 deck pour (11/05): 5,180 PSI (Req: 5,000) ✓
+- Floor 17 deck pour (11/10): 4,890 PSI (Req: 5,000) ✗
+  Note: Re-test at 56 days; structural engineer notification required
+
+Weld Inspection Reports:
+- UT inspection reports current through Floor 16
+- 2% rejection rate (within acceptable range)
+- Repairs completed and re-inspected
+
+================================================================================
+SECTION 5: ENVIRONMENTAL COMPLIANCE
+================================================================================
+
+5.1 Stormwater Management
+
+✓ PASSED - Silt fence intact around perimeter
+✓ PASSED - Inlet protection in place
+✓ PASSED - Construction entrance stabilization
+
+⚠ OBSERVATION - Sediment accumulation at southwest corner
+  Maintenance required within 72 hours per TPDES permit
+
+5.2 Material Storage
+
+✓ PASSED - Fuel storage in secondary containment
+✓ PASSED - Concrete washout area maintained
+✓ PASSED - Hazmat storage shed properly labeled
+
+5.3 Dust Control
+
+✓ PASSED - Water truck operating on access roads
+✓ PASSED - Concrete cutting with water suppression
+⚠ OBSERVATION - Dust observed from drywall cutting (Floor 8)
+  Install local exhaust ventilation or wet methods
+
+================================================================================
+SECTION 6: DEFICIENCY SUMMARY
+================================================================================
+
+CRITICAL (Correction Required Before Proceeding):
+
+1. Floor 20 - Top mat reinforcing incomplete
+   Responsible: Atlas Rebar Contractors
+   Deadline: November 16, 2024
+
+2. Floor 20 - Inadequate lap splices (3 locations)
+   Responsible: Atlas Rebar Contractors
+   Deadline: November 16, 2024
+
+3. Floor 14 - Missing/unsecured floor opening covers
+   Responsible: Titan Construction (GC)
+   Deadline: IMMEDIATE - STOP WORK UNTIL RESOLVED
+
+4. Telecom Room sprinkler coverage
+   Responsible: Phoenix Fire Protection
+   Deadline: November 20, 2024
+
+5. Grease interceptor undersized
+   Responsible: Apex Plumbing
+   Deadline: November 25, 2024
+
+SIGNIFICANT (Correction Required Within 48 Hours):
+
+6. Combustible storage in electrical room
+   Responsible: Titan Construction (GC)
+   Deadline: November 15, 2024 (EOD)
+
+7. Damaged extension cords
+   Responsible: Elite Electrical Systems
+   Deadline: November 15, 2024 (IMMEDIATE)
+
+MINOR OBSERVATIONS (Track to Completion):
+
+8. Cold joint at Column C-7/D-7 - engineer review
+9. Spray fireproofing touch-up (4 locations)
+10. GFCI at Floor 12 rooftop terrace
+11. VAV access panels
+12. Ladder cage Floor 16
+13. Stairwell debris cleanup
+14. Sediment fence maintenance
+
+================================================================================
+SECTION 7: FOLLOW-UP ACTIONS
+================================================================================
+
+7.1 Re-Inspection Required
+
+The following items require re-inspection before proceeding:
+- Floor 14 floor openings - available for inspection upon notification
+- Floor 20 reinforcing - schedule 24 hours in advance
+- Telecom Room sprinklers - schedule 24 hours in advance
+- Grease interceptor - schedule 48 hours in advance
+
+7.2 Documentation Required
+
+Submit to Building Department within 5 business days:
+- Floor 17 concrete re-test results (56-day breaks)
+- Revised sprinkler shop drawings (Telecom Room)
+- Structural engineer letter regarding cold joint
+- Updated fire alarm shop drawings
+
+7.3 Next Scheduled Inspection
+
+Date: November 22, 2024 (tentative)
+Scope: 
+- Re-inspection of deficiency items
+- Floor 18 post-tension stressing observation
+- Elevator equipment inspection
+- Façade mock-up review
+
+================================================================================
+INSPECTOR CERTIFICATION
+================================================================================
+
+I certify that this inspection was conducted in accordance with the approved 
+plans, specifications, and applicable building codes. The findings contained 
+herein represent conditions observed at the time of inspection.
+
+Inspector Signature: _________________________ Date: November 15, 2024
+                     Sarah Thompson, PE, CBO
+
+Reviewed By: _________________________________ Date: November 15, 2024
+             Building Official
+
+================================================================================
+DISTRIBUTION
+================================================================================
+
+☑ Project Owner (Highland Development Partners)
+☑ General Contractor (Titan Construction)
+☑ Architect of Record (Sterling Design Group)
+☑ Structural Engineer (Martinez Structural Engineers)
+☑ Building Department (City of Austin)
+☐ Affected Subcontractors (per deficiency items)
+
+================================================================================
+ATTACHMENTS
+================================================================================
+
+Attachment A: Photographic Documentation (47 photos)
+Attachment B: Concrete Test Reports
+Attachment C: Weld Inspection Reports
+Attachment D: Stop Work Order - Floor 14 Opening Protection
+
+================================================================================
+END OF REPORT
+================================================================================

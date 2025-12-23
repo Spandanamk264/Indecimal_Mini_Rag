@@ -1,0 +1,405 @@
+================================================================================
+SUBCONTRACTOR AGREEMENT
+================================================================================
+
+CONTRACT NUMBER: TC-2024-SUB-0847
+PROJECT: Highland Towers Mixed-Use Development
+LOCATION: 4521 Commerce Boulevard, Austin, TX 78701
+
+================================================================================
+PARTIES TO THIS AGREEMENT
+================================================================================
+
+GENERAL CONTRACTOR ("Contractor"):
+Titan Construction Corporation
+8900 Industrial Parkway, Suite 200
+Houston, TX 77001
+License No.: TX-GC-45892
+
+SUBCONTRACTOR ("Subcontractor"):
+Elite Electrical Systems, LLC
+2341 Trade Center Drive
+Austin, TX 78758
+License No.: TX-EC-12847
+
+DATE OF AGREEMENT: February 15, 2024
+
+================================================================================
+ARTICLE 1: SCOPE OF WORK
+================================================================================
+
+1.1 Work Description
+
+Subcontractor shall furnish all labor, materials, equipment, and supervision 
+necessary to complete the following electrical scope of work:
+
+Division 26 - Electrical:
+- Complete electrical distribution system including main switchgear (4000A, 480V)
+- Emergency generator connection and automatic transfer switch
+- All branch circuit wiring for commercial and residential units
+- Lighting fixtures and controls (excluding fixtures provided by owner)
+- Fire alarm system rough-in and coordination with FA contractor
+- Low voltage infrastructure (conduit and boxes only)
+- Temporary power and lighting during construction
+- Final testing, commissioning, and documentation
+
+1.2 Contract Documents
+
+The following documents are incorporated by reference:
+- Construction Drawings dated 01/15/2024 (Electrical sheets E-001 through E-089)
+- Project Specifications: Sections 260000 - 269999
+- Addenda 1, 2, and 3
+- RFI responses 001-045 (as of contract date)
+- General Conditions (AIA A201-2017)
+- Supplementary Conditions
+
+1.3 Exclusions
+
+This subcontract explicitly EXCLUDES:
+- Photovoltaic (solar) system installation
+- Electric vehicle charging stations (separate contract)
+- Audio/visual systems
+- Specialty lighting in common areas (by others)
+- Utility company service entrance (by utility)
+
+================================================================================
+ARTICLE 2: CONTRACT PRICE
+================================================================================
+
+2.1 Lump Sum Amount
+
+The Contract Price for the complete scope of work is:
+
+FOUR MILLION EIGHT HUNDRED FIFTY-TWO THOUSAND DOLLARS ($4,852,000.00)
+
+2.2 Price Breakdown
+
+The following breakdown is for payment purposes only:
+| Phase                          | Amount        |
+|-------------------------------|---------------|
+| Rough-in (Floors 1-10)        | $1,850,000    |
+| Rough-in (Floors 11-20)       | $1,650,000    |
+| Finish/Trim                   | $725,000      |
+| Testing & Commissioning       | $325,000      |
+| Closeout & Warranty           | $302,000      |
+| TOTAL                         | $4,852,000    |
+
+2.3 Allowances
+
+The following allowances are included in the Contract Price:
+- Light fixtures: $485,000 (reconciled at substantial completion)
+- Copper wire escalation: $125,000 (baseline: Feb 2024 COMEX)
+- Premium overtime: $50,000 (only when directed by Contractor)
+
+2.4 Unit Prices
+
+The following unit prices shall apply to change orders:
+- EMT conduit installation: $8.50 per linear foot (3/4" to 1.5")
+- Wire pulling: $0.45 per linear foot per conductor
+- Ground floor boxes: $85.00 each (installed)
+- Panel modifications: $3,500 per 225A panel
+
+================================================================================
+ARTICLE 3: TIME OF PERFORMANCE
+================================================================================
+
+3.1 Project Schedule
+
+Subcontractor shall perform work in accordance with:
+- Notice to Proceed: March 1, 2024
+- Underground rough-in complete: April 15, 2024
+- Vertical rough-in complete: September 30, 2024
+- Finish work complete: January 15, 2025
+- Substantial Completion: February 28, 2025
+- Final Completion: March 31, 2025
+
+3.2 Coordination Requirements
+
+Subcontractor shall:
+- Attend weekly coordination meetings (Tuesdays, 10:00 AM)
+- Provide 4-week look-ahead schedules
+- Coordinate with mechanical contractor for equipment connections
+- Complete 3D clash detection review within 5 days of model updates
+
+3.3 Liquidated Damages
+
+If Subcontractor fails to achieve milestones due to its own actions:
+- Substantial Completion delay: $5,000 per calendar day
+- Final Completion delay: $2,500 per calendar day
+
+These damages are not a penalty but represent a reasonable estimate of 
+Contractor's actual damages from delay.
+
+3.4 Acceleration
+
+If directed to accelerate, Subcontractor shall be entitled to:
+- Actual increased labor costs (with backup documentation)
+- Premium time at 1.5x base rate (not to exceed 60 hours/week)
+- Prior written approval required for all acceleration measures
+
+================================================================================
+ARTICLE 4: PAYMENT TERMS
+================================================================================
+
+4.1 Progress Payments
+
+Subcontractor shall submit monthly pay applications by the 25th of each month.
+Applications shall include:
+- Completed AIA G702/G703 forms
+- Lien waivers for prior payments (conditional for current)
+- Schedule of Values update
+- Certified payroll (if applicable)
+
+4.2 Payment Schedule
+
+- Payment due: 30 days after approved pay application
+- Retainage: 10% of each payment (reduced to 5% at 50% completion)
+- Retainage release: 45 days after final completion and documentation
+
+4.3 Back-Charges
+
+Contractor may back-charge Subcontractor for:
+- Cleanup not performed (after 24-hour notice)
+- Damage caused to other trades' work
+- Safety violations (first offense: warning; second offense: $500 minimum)
+- Schedule impacts caused by Subcontractor
+
+All back-charges require written notice and opportunity to cure.
+
+================================================================================
+ARTICLE 5: INSURANCE REQUIREMENTS
+================================================================================
+
+5.1 Required Coverage
+
+Subcontractor shall maintain the following insurance:
+
+General Liability:
+- Per Occurrence: $2,000,000
+- General Aggregate: $4,000,000
+- Products/Completed Operations: $2,000,000
+
+Automobile Liability:
+- Combined Single Limit: $1,000,000
+
+Workers' Compensation:
+- Statutory Limits (Texas)
+- Employer's Liability: $1,000,000 each accident
+
+Umbrella/Excess Liability:
+- Per Occurrence: $5,000,000
+- Aggregate: $5,000,000
+
+Professional Liability (if design services):
+- Per Claim: $2,000,000
+- Aggregate: $2,000,000
+
+5.2 Additional Insureds
+
+Contractor, Owner, and their respective officers and directors shall be 
+named as additional insureds on all policies except Workers' Compensation.
+
+5.3 Certificates
+
+Current certificates of insurance must be on file before work begins.
+30-day notice of cancellation required.
+
+================================================================================
+ARTICLE 6: SAFETY AND COMPLIANCE
+================================================================================
+
+6.1 Safety Program
+
+Subcontractor shall:
+- Comply with all OSHA regulations (29 CFR 1926)
+- Provide site-specific safety plan within 10 days of NTP
+- Designate a full-time competent person on-site
+- Conduct weekly toolbox talks (documented)
+- Participate in Contractor's safety incentive program
+
+6.2 Drug-Free Workplace
+
+All Subcontractor personnel are subject to:
+- Pre-employment drug screening
+- Random drug and alcohol testing
+- Post-incident testing
+- Reasonable suspicion testing
+
+Positive test results in immediate removal from project.
+
+6.3 Safety Violations
+
+First violation: Written warning, mandatory retraining
+Second violation: $500 fine, worker removed for 30 days
+Third violation: Worker permanently barred, potential contract termination
+
+================================================================================
+ARTICLE 7: WARRANTY
+================================================================================
+
+7.1 Standard Warranty
+
+Subcontractor warrants all work for TWO (2) YEARS from date of Substantial 
+Completion. Warranty covers:
+- Defective materials
+- Faulty workmanship
+- Non-compliance with specifications
+- System performance failures
+
+7.2 Extended Warranties
+
+The following extended warranties apply:
+- Lighting controls: 5 years (manufacturer + installation)
+- Emergency lighting: 5 years
+- Generator/ATS system: 3 years
+
+7.3 Warranty Response
+
+Subcontractor must respond to warranty claims within:
+- Emergency (safety/life threatening): 4 hours
+- Urgent (business impact): 24 hours
+- Non-urgent: 72 hours
+
+================================================================================
+ARTICLE 8: CHANGES AND CLAIMS
+================================================================================
+
+8.1 Change Order Process
+
+No changes shall be performed without written authorization.
+Change order requests must include:
+- Detailed scope description
+- Labor breakdown (hours by trade)
+- Material costs (invoices or quotes)
+- Equipment costs
+- Overhead and profit (10% maximum)
+
+8.2 Concealed Conditions
+
+Differing site conditions must be reported within 24 hours of discovery.
+Failure to provide timely notice waives claims for additional compensation.
+
+8.3 Claims Procedure
+
+Claims must be submitted within 21 days of the event giving rise to the claim.
+Claims must include:
+- Statement of facts
+- Supporting documentation
+- Quantum (time and/or cost)
+- Reservation of rights
+
+================================================================================
+ARTICLE 9: DISPUTE RESOLUTION
+================================================================================
+
+9.1 Negotiation
+
+Parties agree to attempt good-faith negotiation before formal proceedings.
+Project-level representatives have 15 days to resolve disputes.
+Executive-level representatives have an additional 15 days.
+
+9.2 Mediation
+
+If negotiation fails, parties agree to non-binding mediation.
+Mediator selected: American Arbitration Association (AAA)
+Costs split equally between parties.
+
+9.3 Arbitration
+
+If mediation fails, disputes shall be resolved by binding arbitration.
+Venue: Houston, Texas
+Rules: AAA Construction Industry Arbitration Rules
+Decision final and binding; limited appeal rights per Texas law.
+
+================================================================================
+ARTICLE 10: TERMINATION
+================================================================================
+
+10.1 Termination for Cause
+
+Contractor may terminate for cause if Subcontractor:
+- Fails to provide adequate workforce
+- Fails to make timely payments to suppliers or sub-subcontractors
+- Violates safety requirements (3 or more violations)
+- Becomes insolvent or files bankruptcy
+- Abandons the work
+
+Seven (7) days written notice and opportunity to cure required.
+
+10.2 Termination for Convenience
+
+Contractor may terminate for convenience with 14 days notice.
+Subcontractor entitled to:
+- Payment for work completed
+- Demobilization costs
+- Reasonable cancellation charges for materials
+
+Subcontractor NOT entitled to lost profits on unperformed work.
+
+================================================================================
+ARTICLE 11: GENERAL PROVISIONS
+================================================================================
+
+11.1 Independent Contractor
+
+Subcontractor is an independent contractor, not an employee of Contractor.
+Subcontractor responsible for all taxes, benefits, and insurance.
+
+11.2 Assignment
+
+Neither party may assign this agreement without written consent.
+Assignment to affiliate or successor permitted with notice.
+
+11.3 Indemnification
+
+Subcontractor indemnifies Contractor for claims arising from:
+- Subcontractor's negligence or willful misconduct
+- Violation of laws or regulations
+- Breach of contract
+- Personal injury or property damage
+
+Defense costs included in indemnification.
+
+11.4 Governing Law
+
+This Agreement governed by laws of the State of Texas.
+Venue for any disputes: Harris County, Texas.
+
+11.5 Entire Agreement
+
+This Agreement, including exhibits, constitutes the entire agreement.
+No oral modifications valid unless confirmed in writing.
+
+================================================================================
+SIGNATURES
+================================================================================
+
+TITAN CONSTRUCTION CORPORATION
+
+By: _________________________________
+Name: Robert J. Harrison
+Title: Vice President, Construction
+Date: February 15, 2024
+
+
+ELITE ELECTRICAL SYSTEMS, LLC
+
+By: _________________________________
+Name: Patricia M. Vasquez
+Title: President
+Date: February 15, 2024
+
+================================================================================
+EXHIBITS
+================================================================================
+
+Exhibit A: Scope of Work Details
+Exhibit B: Schedule of Values
+Exhibit C: Project Schedule
+Exhibit D: Insurance Certificates
+Exhibit E: Safety Plan Requirements
+Exhibit F: List of Approved Sub-subcontractors
+
+================================================================================
+END OF AGREEMENT
+================================================================================
